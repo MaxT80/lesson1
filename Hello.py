@@ -1,0 +1,2 @@
+user="Maxim"
+print(user)
